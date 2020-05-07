@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://checkingakia.github.io/</id>
     <title>Checking&apos;s blog</title>
-    <updated>2020-05-07T07:57:39.775Z</updated>
+    <updated>2020-05-07T08:05:29.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://checkingakia.github.io/"/>
     <link rel="self" href="https://checkingakia.github.io/atom.xml"/>
@@ -11,18 +11,21 @@
     <icon>https://checkingakia.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Checking&apos;s blog</rights>
     <entry>
-        <title type="html"><![CDATA[关于]]></title>
+        <title type="html"><![CDATA[ME！]]></title>
         <id>https://checkingakia.github.io/post/about/</id>
         <link href="https://checkingakia.github.io/post/about/">
         </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
-</blockquote>
-<h2 id="关于本站">🏠 关于本站</h2>
-<h2 id="博主是谁">👨‍💻 博主是谁</h2>
-<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
-<h2 id="联系我呀">📬 联系我呀</h2>
+        <updated>2020-05-07T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>##概括性介绍<br>
+一名高中生，喜欢拿着相机到处乱跑，想着能拍出有故事的照片<br>
+比较擅长视频剪辑，有空就叫上小伙伴一起去拍沙雕特效短片</p>
+<p>##各种属性<br>
+内向阳光爱女装♂<br>
+少前忠诚指挥官，HITMAN2职业全能杀手，死亡搁浅敬业快递员</p>
+<h2 id="找我玩">找我玩</h2>
+<p>QQ-2557205364<br>
+Tiwwer-Checking<br>
+Netease-逗鸟Checking</p>
 ]]></content>
     </entry>
     <entry>
