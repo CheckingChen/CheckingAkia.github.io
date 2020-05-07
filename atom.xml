@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://checkingakia.github.io/</id>
-    <title>AKI</title>
-    <updated>2020-05-07T07:22:50.289Z</updated>
+    <title>Checking&apos;s blog</title>
+    <updated>2020-05-07T07:31:26.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://checkingakia.github.io/"/>
     <link rel="self" href="https://checkingakia.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>不知道不知道啊QAQ</subtitle>
     <logo>https://checkingakia.github.io/images/avatar.png</logo>
     <icon>https://checkingakia.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, AKI</rights>
+    <rights>All rights reserved 2020, Checking&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://checkingakia.github.io/post/hello-gridea/</id>
