@@ -3,7 +3,7 @@
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>关于 | AKI</title>
-<link rel="shortcut icon" href="https://checking-akia.github.io//favicon.ico?v=1588835275016">
+<link rel="shortcut icon" href="https://checking-akia.github.io//favicon.ico?v=1588835390691">
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://checking-akia.github.io//styles/main.css">
 <link rel="alternate" type="application/atom+xml" title="关于 | AKI - Atom Feed" href="https://checking-akia.github.io//atom.xml">
@@ -28,7 +28,7 @@
       <div class="main-content">
         <div class="site-header">
   <a href="https://checking-akia.github.io/">
-  <img class="avatar" src="https://checking-akia.github.io//images/avatar.png?v=1588835275016" alt="">
+  <img class="avatar" src="https://checking-akia.github.io//images/avatar.png?v=1588835390691" alt="">
   </a>
   <h1 class="site-title">
     AKI
@@ -123,6 +123,32 @@
 
         
 
+        
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: 'c1cf10e0c7794cc0d2cd',
+    clientSecret: 'ed4842fb34f0dbf5263cc9a20af32fefa7f2663b',
+    repo: 'Checking-Akia.github.io',
+    owner: 'Checking-Akia',
+    admin: ['Checking-Akia'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+          
+
+          
         
 
         <div class="site-footer">
