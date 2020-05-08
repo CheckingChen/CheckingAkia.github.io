@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://checkingakia.github.io/</id>
     <title>Checking&apos;s blog</title>
-    <updated>2020-05-08T01:09:31.052Z</updated>
+    <updated>2020-05-08T01:15:13.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://checkingakia.github.io/"/>
     <link rel="self" href="https://checkingakia.github.io/atom.xml"/>
@@ -30,5 +30,12 @@
         <link href="https://checkingakia.github.io/post/kan-wan-lesslessxiao-yang-xiao-en-mo-ri-nong-chang-greatergreater-hou-de-yi-xie-gan-hong/">
         </link>
         <updated>2020-02-06T12:53:29.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对本书吹个水]]></title>
+        <id>https://checkingakia.github.io/post/dui-ben-shu-chui-ge-shui/</id>
+        <link href="https://checkingakia.github.io/post/dui-ben-shu-chui-ge-shui/">
+        </link>
+        <updated>2020-01-29T13:11:11.000Z</updated>
     </entry>
 </feed>
