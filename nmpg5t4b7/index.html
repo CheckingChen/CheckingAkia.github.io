@@ -174,43 +174,109 @@
 
             <div class="main">
                 <div class="container">
-                    <div class="post-wrap archive">
-                        
+                    <article class="post-wrap">
+                        <header class="post-header">
+                            <h1 class="post-title">
+                                好久不见
+                            </h1>
                             
-                                <h3>
-                                    2020
-                                </h3>
+                                    <!--zh-->
+                                    <div class="post-meta zh">
+                                        &#x4F5C;&#x8005;:
+                                        <a itemprop="author" rel="author" href="/">
+                                            逗鸟10³脑洞实验室
+                                        </a>
+                                        <span class="post-time">&#x65E5;&#x671F;: <a href="#">08-21</a></span>
+                                        <span class="post-readtime">&#x9605;&#x8BFB;&#x65F6;&#x95F4;:<a
+                                    href="#">0.3
+                                    &#x5206;&#x949F;</a></span>
+                                        <span class="post-words">&#x5B57;&#x6570;:<a href="#">95</a></span>
+                                        
+                                    </div>
+                                    
+                        </header>
+                        
+                        <div class="post-content">
+                            <p>似乎是全中国性的DNS污染，导致所有的github.io页面都无法访问了<br>
+<img src="https://checkingakia.github.io/post-images/1597997847722.png" alt="" loading="lazy">改了一下本地的host文件，瞬间复活<br>
+<img src="https://checkingakia.github.io/post-images/1597997880176.png" alt="" loading="lazy"><br>
+不过其他人还是无法访问博客，那这就成了真·私人博客了<br>
+竟然有些兴奋<br>
+以后这些内容就只有我一个人看得到啦hhh<br>
+（放纵的快乐/滑稽</p>
+
+                        </div>
+                        
+                            <div class="post-toc">
                                 
-                                    
-
-                                        <article class="archive-item">
-                                            <a class="archive-item-link" href="https://checkingakia.github.io/GxSG4m2BU/">
-                                                摄影与故事
-                                            </a>
-                                            <span class="archive-item-date">05-24 </span>
-                                        </article>
-                                        
-                                            
-                                    
-
-                                        <article class="archive-item">
-                                            <a class="archive-item-link" href="https://checkingakia.github.io/ru-he-ba-tong-yang-de-jing-dian-pai-de-bie-ju-yi-ge/">
-                                                如何把同样的景点拍得别具一格？
-                                            </a>
-                                            <span class="archive-item-date">03-18 </span>
-                                        </article>
-                                        
-                                            
-                                                
-                    </div>
-                    <div class="pagination-container">
-                        
+                            </div>
                             
-                                    
-                                            
-                    </div>
+                                
+                                                    
+                                                                    <!--Share-->
+                                                                    <span style="margin-right:15px">
+                        <i class="post-share"></i>
+                        <span>&#x5206;&#x4EAB;:</span>
+                                                                    <a title="QR 码" target="_blank" href="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://checkingakia.github.io/nmpg5t4b7/"><i class="fa fa-qrcode"></i></a>
+                                                                    <a title="QQ" target="_blank" href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https://checkingakia.github.io/nmpg5t4b7/&sharesource=qzone&title=好久不见&pics=https://checkingakia.github.io/images/avatar.png?v=1597997952908&summary="><i class="fa fa-qq"></i></a>
+                                                                    <a title="新浪微博" target="_blank" href="https://service.weibo.com/share/share.php?url=https://checkingakia.github.io/nmpg5t4b7/&sharesource=weibo&title=好久不见 + " - " + &pic="https://checkingakia.github.io/images/avatar.png?v=1597997952908 "><i class="fa fa-weibo "></i></a>
+
+                                                                    </span>
+                                                                    
+                                                                            <!--zh-->
+                                                                            <section class="post-tags zh ">
+                                                                                <div>
+                                                                                    <span>&#x6807;&#x7B7E;:</span>
+                                                                                    <span class="tag ">
+                        
+                                </span>
+                                                                                </div>
+                                                                                <div>
+                                                                                    <a href="javascript:window.history.back();">
+                        &#x8FD4;&#x56DE;</a>
+                                                                                    <span>&dot;</span>
+                                                                                    <a href="#">&#x4E3B;&#x9875;</a>
+                                                                                </div>
+                                                                            </section>
+
+                                                                            
+                                                                                <!---->
+                                                                                <section class="post-nav">
+                                                                                    
+                                                                                            
+                                                                                                <a class="next" rel="next" href="https://checkingakia.github.io/Px9ASx3hz/">
+                                                                                                    七日谈
+                                                                                                </a>
+                                                                                                
+                                                                                </section>
+                    </article>
                 </div>
+                
+                    
+                        <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container" style="width: 100%;max-width: 780px;margin: auto;"></div>
+
+<script>
+    var gitalk = new Gitalk({
+        clientID: '54e90439612e88a7909e',
+        clientSecret: 'e6e31300c5c2644af0704a1751d4c4651d2f6bda',
+        repo: 'comment',
+        owner: 'CheckingAkia',
+        admin: ['CheckingAkia'],
+        id: (location.pathname).substring(0, 49), // Ensure uniqueness and length less than 50
+        distractionFreeMode: false // Facebook-like distraction free mode
+    })
+
+    gitalk.render('gitalk-container')
+</script>
+                            
+                                        
+                                            
             </div>
+    </div>
+    </div>
     </div>
     
         <footer id="footer" class="footer">
@@ -269,5 +335,8 @@
                 </script>
         </div>
 </body>
+<script>
+    scroll();
+</script>
 
 </html>

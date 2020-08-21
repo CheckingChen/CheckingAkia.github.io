@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://checkingakia.github.io</id>
     <title>逗鸟10³脑洞实验室</title>
-    <updated>2020-08-21T08:15:35.976Z</updated>
+    <updated>2020-08-21T08:19:16.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://checkingakia.github.io"/>
     <link rel="self" href="https://checkingakia.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://checkingakia.github.io/images/avatar.png</logo>
     <icon>https://checkingakia.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 逗鸟10³脑洞实验室</rights>
+    <entry>
+        <title type="html"><![CDATA[好久不见]]></title>
+        <id>https://checkingakia.github.io/nmpg5t4b7/</id>
+        <link href="https://checkingakia.github.io/nmpg5t4b7/">
+        </link>
+        <updated>2020-08-21T08:15:48.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[七日谈]]></title>
         <id>https://checkingakia.github.io/Px9ASx3hz/</id>
